@@ -3,7 +3,7 @@
 | Arkusz | Nazwa folderu | 🧠 Algorytm | 🐍 Python | 📊 Excel | 🗄️ Access | 📝 Reszta (Teoria/Inne) |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Maj 2016** | `Maj2016` | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
-| **Czerwiec 2020** | `Czerwiec2020` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
+| **Czerwiec 2020** | `Czerwiec2020` | ⬜ | ✅ | ✅ | ⬜ | ⬜ |
 | **Maj 2021** | `Maj2021` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 | **Maj 2022** | `Maj2022` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 | **Czerwiec 2022** | `Czerwiec2022` | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
