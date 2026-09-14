@@ -1,6 +1,6 @@
 ## Stan arkuszy
 
-| Arkusz | Nazwa folderu | 🧠 Algorytm | 🐍 Python | 📊 Excel | 🗄️ Access | 📝 Reszta (Teoria/Inne) |
+| Arkusz | Nazwa folderu | 🧠 Algorytmy | 🐍 Python | 📊 Excel | 🗄️ Access | 📝 Teoria |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Maj 2016** | `Maj2016` | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
 | **Czerwiec 2020** | `Czerwiec2020` | ⬜ | ✅ | ✅ | ⬜ | ⬜ |
