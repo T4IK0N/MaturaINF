@@ -2,9 +2,13 @@
 
 | Arkusz | Nazwa folderu | 🧠 Algorytmy | 🐍 Python | 📊 Excel | 🗄️ Access | 📝 Teoria |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Maj 2016** | `Maj2016` | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
+| **Rozszerzona 2013** | `Rozszerzona2013` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
+| **Rozszerzona 2012** | `Rozszerzona2012` | ⬜ | ⬜ | ⬜ | ✅ | ⬜ |
+| **Podstawowa 2011** | `Rozszerzona2011` | ⬜ | ⬜ | ⬜ | ✅ | ⬜ |
+| **Rozszerzona 2011** | `Podstawowa2011` | ⬜ | ⬜ | ⬜ | ✅ | ⬜ |
+| **Maj 2016** | `Maj2016` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
 | **Czerwiec 2020** | `Czerwiec2020` | ⬜ | ✅ | ✅ | ⬜ | ⬜ |
-| **Maj 2021** | `Maj2021` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
+| **Maj 2021** | `Maj2021` | ⬜ | ✅ | ✅ | ⬜ | ⬜ |
 | **Maj 2022** | `Maj2022` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 | **Czerwiec 2022** | `Czerwiec2022` | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
 | **Maj 2023** | `Maj2023` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
