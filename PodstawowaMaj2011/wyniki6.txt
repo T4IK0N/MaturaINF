@@ -1,0 +1,16 @@
+6a)
+2, 9, 12, 18, 19, 20, 22
+
+6b)
+55
+
+6c)
+bardzo dobre: 1
+niedostateczne: 6
+
+6d)
+2, 45, 65, 70, 79
+
+6e)
+Suma z prehistoria	Suma z starożytność	Suma z średniowiecze	Suma z historia nowożytna	Suma z historia najnowsza
+278	263	281	320	298
