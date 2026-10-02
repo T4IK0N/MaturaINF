@@ -4,7 +4,7 @@
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Podstawowa 2011** | `Podstawowa2011` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
 | **Rozszerzona 2011** | `Rozszerzona2011` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
-| **Rozszerzona 2012** | `Rozszerzona2012` | ⬜ | ⬜ | ⬜ | ✅ | ⬜ |
+| **Rozszerzona 2012** | `Rozszerzona2012` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
 | **Rozszerzona 2013** | `Rozszerzona2013` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
 | **Maj 2016** | `Maj2016` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
 | **Czerwiec 2020** | `Czerwiec2020` | ⬜ | ✅ | ✅ | ⬜ | ⬜ |
