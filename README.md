@@ -13,8 +13,9 @@
 | **Czerwiec 2022** | `Czerwiec2022` | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
 | **Maj 2023** | `Maj2023` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 | **Czerwiec 2024** | `Czerwiec2024` | ⬜ | 🟡 | ⬜ | ⬜ | ⬜ |
+| **Maj 2026** | `Czerwiec2024` | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Legenda:
-* ✅ – Zadanie w pełni zrobione i przetestowane (zgodne z kluczem CKE)
+* ✅ – Zadanie w pełni zrobione
 * 🟡 – W trakcie robienia / zrobione częściowo
 * ⬜ – Jeszcze nie ruszone
