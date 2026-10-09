@@ -8,7 +8,7 @@
 | **Czerwiec 2022** | `Czerwiec2022` | ⬜ | ⬜ | ✅ | ⬜ | ⬜ |
 | **Maj 2022** | `Maj2022` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 | **Maj 2021** | `Maj2021` | ⬜ | ✅ | ✅ | ⬜ | ⬜ |
-| **Czerwiec 2020** | `Czerwiec2020` | ⬜ | ✅ | ✅ | ⬜ | ⬜ |
+| **Czerwiec 2020** | `Czerwiec2020` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
 | **Maj 2016** | `Maj2016` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
 | **Rozszerzona 2013** | `Rozszerzona2013` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
 | **Rozszerzona 2012** | `Rozszerzona2012` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
