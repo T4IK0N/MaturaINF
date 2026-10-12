@@ -1,0 +1,10 @@
+6a)
+497
+
+6b)
+dziesietnie: 64502
+binarnie: 1111101111110110
+
+6c)
+ile liczb: 101
+suma binarnie: 1001100111110111
