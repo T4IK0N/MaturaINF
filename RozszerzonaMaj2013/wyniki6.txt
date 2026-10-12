@@ -1,0 +1,11 @@
+5a)
+
+ID_filmu	Tytul
+AA2005	Charlie i fabryka czekolady
+AC2005	Kevin sam w domu
+AB2005	Madagaskar
+BD2005	Opowiesci z Narnii: Lew, czarownica i stara szafa
+
+5b)
+
+horror	97
