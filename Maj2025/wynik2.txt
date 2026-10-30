@@ -1,0 +1,22 @@
+2.1
+++o+o++o+o++
++*+**++**+*+
+*+o++**++o+*
+*oo*o**o*oo*
++*++*oo*++*+
++o++oooo++o+
+
+2.2
+srodkowe pole na pozycji:  2
+srodkowe pole w wierszu:  546
+srodkowe pole na pozycji:  5
+srodkowe pole w wierszu:  399
+srodkowe pole na pozycji:  11
+srodkowe pole w wierszu:  630
+ilosc kwadratow:  3
+
+2.3
+531246 *******o+*+o
+
+2.4
+527865439 ++oo*+oo*++ooo*o*++
