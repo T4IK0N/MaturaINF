@@ -3,7 +3,7 @@
 | Arkusz | Nazwa folderu | 🧠 Algorytmy | 🐍 Python | 📊 Excel | 🗄️ Access | 📝 Teoria |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Maj 2026** | `Czerwiec2024` | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Maj 2025** | `Czerwiec2024` | ✅ | ✅ | ⬜ | ⬜ | ✅ |
+| **Maj 2025** | `Maj2025` | ✅ | ✅ | ⬜ | ⬜ | ✅ |
 | **Czerwiec 2024** | `Czerwiec2024` | ⬜ | 🟡 | ⬜ | ⬜ | ⬜ |
 | **Maj 2023** | `Maj2023` | ⬜ | ✅ | ⬜ | ⬜ | ⬜ |
 | **Czerwiec 2022** | `Czerwiec2022` | ⬜ | ✅ | ✅ | ⬜ | ⬜ |
