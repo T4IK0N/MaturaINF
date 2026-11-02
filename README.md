@@ -11,11 +11,11 @@
 | **Maj 2021** | `Maj2021` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
 | **Czerwiec 2020** | `Czerwiec2020` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
 | **Podstawowa Maj 2016** | `PodstawowaMaj2016` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
-| **Rozszerzona 2014** | `Rozszerzona2014` | ⬜ | ⬜ | ✅ | ✅ | ⬜ |
-| **Rozszerzona 2013** | `Rozszerzona2013` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
-| **Rozszerzona 2012** | `Rozszerzona2012` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
-| **Rozszerzona 2011** | `Rozszerzona2011` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
-| **Podstawowa 2011** | `Podstawowa2011` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
+| **Rozszerzona 2014** | `RozszerzonaMaj2014` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
+| **Rozszerzona 2013** | `RozszerzonaMaj2013` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
+| **Rozszerzona 2012** | `RozszerzonaMaj2012` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
+| **Rozszerzona 2011** | `RozszerzonaMaj2011` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
+| **Podstawowa 2011** | `PodstawowaMaj2011` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
 
 ## Legenda:
 * ✅ – Zadanie w pełni zrobione
