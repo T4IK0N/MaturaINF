@@ -1,0 +1,42 @@
+7.1
+Mare Boreum
+
+7.2
+Spirit 14
+pierwszy pomiar: 29.08.2066
+ostatni pomiar: 25.07.2076
+
+7.3
+Aeolis
+Amazonis
+Arabia
+Elysium
+Eridania
+Mare Tyrrhenum
+Sinus Sabaeus
+Syrtis Major
+
+7.4
+Mariner 14
+Mariner 15
+Mariner 20
+Phoenix 13
+Phoenix 3
+Rosetta 1
+Rosetta 8
+Spirit 12
+Spirit 7
+Viking 17
+
+7.5
+
+SELECT producent.nazwa
+FROM producent
+INNER JOIN laziki
+ON producent.kod_producenta = laziki.kod_producenta
+INNER JOIN obszary
+INNER JOIN pomiary
+ON obszary.kod_obszaru = pomiary.kod_obszaru
+ON laziki.nr_lazika = pomiary.nr_lazika
+WHERE obszary.nazwa_obszaru = "Arcadia" AND Year(pomiary.data_pomiaru) = 2060
+GROUP BY producent.nazwa;
