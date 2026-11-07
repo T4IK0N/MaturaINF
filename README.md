@@ -18,7 +18,12 @@
 | **Rozszerzona 2011** | `RozszerzonaMaj2011` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
 | **Podstawowa 2011** | `PodstawowaMaj2011` | ⬜ | ✅ | ✅ | ✅ | ⬜ |
 
-## Legenda:
+## Legenda
 * ✅ – Zadanie w pełni zrobione
-* 🟡 – W trakcie robienia / zrobione częściowo
+* 🟡 – W trakcie robienia
 * ⬜ – Jeszcze nie ruszone
+
+## Uwagi
+* Wszystkie materiały (arkusze oraz pliki) są w folderze "materialy".
+* Do algorytmów są dodatkowe pliki w folderach arkuszy nazwane po numerach zadań. Są to zazwyczaj napisane tam algorytmy dla ułatwienia zadań, jeśli nie ma wyjaśnienia zadania na zdjęciu - jest w tym pliku.
+* Jeśli nie ma pseudokodu na zdjęciu prawdopodobnie jest jako plik pythona.
