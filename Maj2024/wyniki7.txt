@@ -1,0 +1,27 @@
+7.1
+164-61-25-530	12185
+159-34-45-151	12047
+091-99-74-175	11769
+
+7.2
+przychód całkowity: 2422669.4
+nazwa odmiany: Reneta
+
+7.3
+Miesiąc	Nazwa odmiany jabłka	Ilość
+Jan	Gala	14017
+Feb	Gala	14969
+Mar	Jonagored	15079
+Apr	Gala	19404
+May	Gala	17382
+Jun	Reneta	18661
+Jul	Melba	21216
+Aug	Reneta	19054
+Sep	Reneta	20881
+Oct	Reneta	17065
+Nov	Reneta	19755
+Dec	Jonagored	13425
+
+7.4
+ile transakcji: 180
+łączna wartość tych rabatów: 3089.1
