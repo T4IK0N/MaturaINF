@@ -5,5 +5,3 @@ def funkcja(x):
         return 2 + funkcja(x//2)
 
 print(funkcja(511))
-
-# for i in range(250)

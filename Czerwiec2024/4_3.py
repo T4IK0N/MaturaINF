@@ -1,13 +1,4 @@
-def symuluj_runde(instrukcja: dict, lista_poprzednia: list):
-    lista_nowa = [0] * len(lista_poprzednia)
-    for komputer in range(1, len(lista_poprzednia) + 1):
-        odbiorca = instrukcja[komputer]
-        for pakiet in lista_poprzednia[komputer - 1]:
-            lista_nowa[odbiorca - 1].append(pakiet)
-    return lista_nowa
-
-
-with open("d:\\programowanie\\inf_matura\\Czerwiec2024\\materialy\\odbiorcy_przyklad_moj.txt", "r") as f:
+with open("materialy/odbiorcy.txt", "r") as f:
     lines = [line.strip() for line in f.readlines()]
 
     n = len(lines)
