@@ -2,6 +2,7 @@
 
 | Arkusz | Link | 🧠 Algorytmy | 🐍 Python | 📊 Excel | 🗄️ Access | 📝 Teoria |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Czerwiec 2026** | [`Czerwiec2026`](Czerwiec2026) | ⬜ | 🟩 | ⬜ | ⬜ | ⬜ |
 | **Maj 2026** | [`Maj2026`](Maj2026) | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 |
 | **Maj 2025** | [`Maj2025`](Maj2025) | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 |
 | **Czerwiec 2024** | [`Czerwiec2024`](Czerwiec2024) | ⬜ | 🟨 | ⬜ | ⬜ | ⬜ |
