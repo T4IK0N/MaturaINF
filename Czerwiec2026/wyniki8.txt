@@ -1,0 +1,36 @@
+8.1
+kobiety: 3.57
+mężczyźni: 3.73
+
+8.2
+N10
+N22
+
+8.3
+styczeń	1	74
+luty	4	21
+marzec	3	42
+kwiecień	2	53
+maj	6	22
+czerwiec	6	8
+wrzesień	1	44
+październik	1	66
+listopad	1	107
+grudzień	6	109
+
+8.4
+SELECT kategorie.Nazwa_Kategorii, SUM(oceny.Ocena)
+FROM kategorie
+INNER JOIN oceny
+ON kategorie.Id_Kategorii = oceny.Id_Kategorii
+GROUP BY kategorie.Nazwa_Kategorii;
+
+8.5
+SELECT TOP 1 uczniowie.Id_Ucznia, Count(oceny.Ocena)
+FROM uczniowie
+INNER JOIN kategorie
+INNER JOIN oceny ON kategorie.Id_Kategorii = oceny.Id_Kategorii
+ON uczniowie.Id_Ucznia = oceny.Id_Ucznia
+WHERE kategorie.Nazwa_Kategorii = "sprawdzian" AND oceny.Ocena = 6
+GROUP BY uczniowie.Id_Ucznia
+ORDER BY Count(oceny.Ocena) DESC;
