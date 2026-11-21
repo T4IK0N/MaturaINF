@@ -39,7 +39,7 @@ def funkcja1(w: int, k: int, n: int) -> int:
     x = nowy_wynik[(w*k)-1]
     return x
 
-print(algorytm(4, 5, 179))
+print(funkcja1(4, 5, 179))
 
 # 2 sposób
 def na_binarny(x):
@@ -81,6 +81,7 @@ def funkcja2(w, k, n):
     while i < w*k:
         tablica[i] = n_binarnie[i%len_n_binarnie]
         i+=1
+    print(tablica)
     return tablica[(w*k)-1]
 
-print(funkcja(4, 5, 179))
+print(funkcja2(4, 5, 179))
