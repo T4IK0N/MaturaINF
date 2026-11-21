@@ -1,4 +1,4 @@
-with open("d:\\programowanie\\inf_matura\\Czerwiec2024\\materialy\\slowa.txt", "r") as f:
+with open("materialy/slowa.txt", "r") as f:
     lines = [line.strip() for line in f.readlines()]
     ilosc = 0
 
